@@ -76,6 +76,14 @@ Contributions are welcomed. Add or update links through pull requests.
 
 - [Digital Design Days](http://www.ddd.it/en/) - 3 day event for the digital design industry. **(October)**
 
+---
+
+### Slovakia
+
+#### Bratislava
+
+- [Sensorium Festival](https://www.sensorium.is/) - 3 day festival for designers, creative directors, technologists, architects, innovators, artists and scientists interested in humane technology. **(June)**
+
 ## North America
 
 ### Canada
