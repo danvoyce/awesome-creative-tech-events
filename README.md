@@ -40,6 +40,10 @@ Contributions are welcomed. Add or update links through pull requests.
 
 - [Grow](https://www.grow.paris/) - The first parisian event dedicated to advanced creative coding. **(November)**
 
+#### Lyon
+
+- [Micro Meso Macro](https://micromesomacro.com) - Exploring the frontiers of data representation **(November)**
+
 ---
 
 ### Germany
