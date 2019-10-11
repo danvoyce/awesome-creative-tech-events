@@ -82,6 +82,14 @@ Contributions are welcomed. Add or update links through pull requests.
 
 ---
 
+### Czech Republic
+
+#### Prague
+
+- [Signal Festival](https://www.signalfestival.com) - 4 day themed festival showcasing digital installations across the city. **(October)**
+
+---
+
 ### Slovakia
 
 #### Bratislava
