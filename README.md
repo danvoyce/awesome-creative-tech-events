@@ -116,6 +116,10 @@ Contributions are welcomed. Add or update links through pull requests.
 
 - [Eyeo Festival](http://eyeofestival.com/) - Festival for Artists, data designers, creative coders, AI explorers, storytellers, tool & platform developers, and researchers all. **(June)**
 
+#### Pittsburgh
+
+- [p5.js Contributors Conference](https://p5js.org/community/) - Whilst most work happens online, every now and then artists, designers, developers and educators get together to advance the p5.js project.
+
 ## Central America
 
 ### Mexico
