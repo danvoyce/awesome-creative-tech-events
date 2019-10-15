@@ -14,6 +14,8 @@ Contributions are welcomed. Add or update links through pull requests.
 
 - [Visualising Data London](https://www.meetup.com/Visualising-Data-London/) - Bimonthly meetup for people who design, write code, draw or like to think about data visualisation.
 
+- [Algorithmic Art](https://www.meetup.com/Algorithmic-Art/) - Monthly meetup in London and other meetups in Cornwall to inspire artists to learn to code, technologists to explore art, and first time coders to get started in fun way that stimulates the senses.
+
 - [Encode](https://encode.info/) - 2 day data viz conference. **(September)**
 
 #### Eastnor
@@ -27,6 +29,8 @@ Contributions are welcomed. Add or update links through pull requests.
 #### Amsterdam
 
 - [Interactive storytelling Meetup](https://www.meetup.com/Interactive-Storytelling-Meetup/) - For everyone working with, or interested in, interactive and/or digital storytelling.
+
+- [Creative Coding Amsterdam](https://www.meetup.com/Creative-Coding-Amsterdam/) - Meetup for people of all levels interested in all creative aspects of computer programming.
 
 - [FITC Amsterdam](https://fitc.ca/event/am20/) - 2 day event about Design, Technology and Cool Shit. **(February)**
 
@@ -95,6 +99,14 @@ Contributions are welcomed. Add or update links through pull requests.
 #### Bratislava
 
 - [Sensorium Festival](https://www.sensorium.is/) - 3 day festival for designers, creative directors, technologists, architects, innovators, artists and scientists interested in humane technology. **(June)**
+
+---
+
+### Sweden
+
+#### Stockholm
+
+- [Creative Coding Stockholm](https://www.meetup.com/Creative-Coding-Stockholm/) - Meetup group for anyone interested in creating art using programming languages.
 
 ## North America
 
