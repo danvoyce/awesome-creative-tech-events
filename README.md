@@ -108,6 +108,12 @@ Contributions are welcomed. Add or update links through pull requests.
 
 - [Creative Coding Stockholm](https://www.meetup.com/Creative-Coding-Stockholm/) - Meetup group for anyone interested in creating art using programming languages.
 
+### Denmark
+
+#### Copenhagen
+
+- [Creating Coding Copenhagen](https://www.meetup.com/Creative-Coding-Copenhagen/) - Meetup group for people of all skill levels interested in generative art, machine learning for creative purpose or tech-based art in general.
+
 ## North America
 
 ### Canada
