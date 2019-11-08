@@ -1,0 +1,24 @@
+{
+  "name": "awesome-creative-tech-events",
+  "version": "1.0.0",
+  "description": "> A curated list of Awesome Creative tech events around the world!",
+  "main": "index.js",
+  "dependencies": {
+    "awesome-lint": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "awesome-lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danvoyce/awesome-creative-tech-events.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danvoyce/awesome-creative-tech-events/issues"
+  },
+  "homepage": "https://github.com/danvoyce/awesome-creative-tech-events#readme"
+}

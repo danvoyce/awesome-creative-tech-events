@@ -4,6 +4,25 @@
 
 Contributions are welcomed. Add or update links through pull requests.
 
+## Contents
+
+- [UK](#uk)
+- [Netherlands](#netherlands)
+- [France](#france)
+- [Germany](#germany)
+- [Spain](#spain)
+- [Austria](#austria)
+- [Italy](#italy)
+- [Czech Republic](#czech-republic)
+- [Slovakia](#slovakia)
+- [Canada](#canada)
+- [USA](#usa)
+- [Mexico](#mexico)
+- [Argentina](#argentina)
+- [Japan](#japan)
+
+<!-- BEGIN RESOURCE LIST -->
+
 ## Europe
 
 ### UK
@@ -161,3 +180,11 @@ Contributions are welcomed. Add or update links through pull requests.
 #### Tokyo
 
 - [Mutek Tokyo](https://mutek.jp/) - Electronic music and the digital arts festival. **(December)**
+
+<!-- END RESOURCE LIST -->
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Dan Voyce](https://twitter.com/_voycie) has waived all copyright and related or neighboring rights to this work.
