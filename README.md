@@ -1,4 +1,4 @@
-# Awesome Creative Tech Events [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Creative Tech Events [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > A curated list of Awesome Creative tech events around the world!
 
@@ -6,22 +6,35 @@ Contributions are welcomed. Add or update links through pull requests.
 
 ## Contents
 
-- [UK](#uk)
-- [Netherlands](#netherlands)
-- [France](#france)
-- [Germany](#germany)
-- [Spain](#spain)
-- [Austria](#austria)
-- [Italy](#italy)
-- [Czech Republic](#czech-republic)
-- [Slovakia](#slovakia)
-- [Sweden](#sweden)
-- [Denmark](#denmark)
-- [Canada](#canada)
-- [USA](#usa)
-- [Mexico](#mexico)
-- [Argentina](#argentina)
-- [Japan](#japan)
+- [Europe](#europe)
+
+  - [UK](#uk)
+  - [Netherlands](#netherlands)
+  - [France](#france)
+  - [Germany](#germany)
+  - [Spain](#spain)
+  - [Austria](#austria)
+  - [Italy](#italy)
+  - [Czech Republic](#czech-republic)
+  - [Slovakia](#slovakia)
+  - [Sweden](#sweden)
+  - [Denmark](#denmark)
+
+- [North America](#north-america)
+
+  - [Canada](#canada)
+  - [USA](#usa)
+
+- [Central America](#central-america)
+
+  - [Mexico](#mexico)
+
+- [South America](#south-america)
+
+  - [Argentina](#argentina)
+
+- [Asia](#asia)
+  - [Japan](#japan)
 
 <!-- BEGIN RESOURCE LIST -->
 
