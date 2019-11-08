@@ -15,6 +15,8 @@ Contributions are welcomed. Add or update links through pull requests.
 - [Italy](#italy)
 - [Czech Republic](#czech-republic)
 - [Slovakia](#slovakia)
+- [Sweden](#sweden)
+- [Denmark](#denmark)
 - [Canada](#canada)
 - [USA](#usa)
 - [Mexico](#mexico)
