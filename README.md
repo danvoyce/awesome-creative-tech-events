@@ -90,6 +90,10 @@ Contributions are welcomed. Add or update links through pull requests.
 
 - [Creative Code Berlin Meetup](https://www.meetup.com/creativeCodeBerlin/) - Diverse community of people interested in the use of computing skills for artistic expression.
 
+#### D&uuml;sseldorf, Berlin and Munich
+
+- [Beyond tellerrand](https://beyondtellerrand.com) - An affordable event about web design, development, creativity, design and much more with multiple events throughout the year
+
 ---
 
 ### Spain
