@@ -76,6 +76,8 @@ Contributions are welcomed. Add or update links through pull requests.
 
 #### Paris
 
+- [Immersive Art Festival](https://immersiveartfestival.com/) - The Atelier des Lumières is a digital art centre where immersive exhibitions dedicated to the greatest artists in the history of art and more contemporary creations are projected. (October)
+
 - [Grow](https://www.grow.paris/) - The first parisian event dedicated to advanced creative coding. **(November)**
 
 #### Lyon
