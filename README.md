@@ -94,7 +94,7 @@ Contributions are welcomed. Add or update links through pull requests.
 
 #### D&uuml;sseldorf, Berlin and Munich
 
-- [Beyond tellerrand](https://beyondtellerrand.com) - An affordable event about web design, development, creativity, design and much more with multiple events throughout the year
+- [Beyond tellerrand](https://beyondtellerrand.com) - An affordable event about web design, development, creativity, design and much more with multiple events throughout the year.
 
 ---
 
