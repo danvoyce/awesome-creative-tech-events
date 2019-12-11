@@ -96,6 +96,10 @@ Contributions are welcomed. Add or update links through pull requests.
 
 - [Beyond tellerrand](https://beyondtellerrand.com) - An affordable event about web design, development, creativity, design and much more with multiple events throughout the year.
 
+#### Hamburg
+
+- [Wirefly](https://www.wirefly.world/) - The first tech & arts festival of its kind in Germany ⪢ 4 days of ✓ talks ✓ music ✓ events ✓ food ✓ camping - all that and more at a unique venue on the beach! **(August)**
+
 ---
 
 ### Spain
