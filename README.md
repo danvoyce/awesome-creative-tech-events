@@ -1,6 +1,6 @@
 # Awesome Creative Tech Events [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> A curated list of Awesome Creative tech events around the world!
+> A curated list of events from around the globe for creative coding, tech, design, music, arts and cool stuff
 
 Contributions are welcomed. Add or update links through pull requests.
 
@@ -35,8 +35,6 @@ Contributions are welcomed. Add or update links through pull requests.
 
 - [Asia](#asia)
   - [Japan](#japan)
-
-<!-- BEGIN RESOURCE LIST -->
 
 ## Europe
 
