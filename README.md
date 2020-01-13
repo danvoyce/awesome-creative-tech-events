@@ -178,6 +178,10 @@ Contributions are welcomed. Add or update links through pull requests.
 
 - [Eyeo Festival](http://eyeofestival.com/) - Festival for Artists, data designers, creative coders, AI explorers, storytellers, tool & platform developers, and researchers all. **(June)**
 
+#### San Francisco
+
+- [CODAME ART+TECH Festival](http://codame.com/events/art-tech-festival-2019-space) - Explores the manifold dimensions of SPACE with an incredible lineup schedule, including nightlife installations and performances, a variety of workshops, and community gathering art+tech salon to close off the Festival. **(October)**
+
 #### Pittsburgh
 
 - [p5.js Contributors Conference](https://p5js.org/community/) - Whilst most work happens online, every now and then artists, designers, developers and educators get together to advance the p5.js project.
