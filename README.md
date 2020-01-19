@@ -64,7 +64,7 @@ Contributions are welcomed. Add or update links through pull requests.
 
 - [Creative Coding Amsterdam](https://www.meetup.com/Creative-Coding-Amsterdam/) - Meetup for people of all levels interested in all creative aspects of computer programming.
 
-- [FITC Amsterdam](https://fitc.ca/event/am20/) - 2 day event about Design, Technology and Cool Shit. **(February)**
+- [FITC Amsterdam](https://fitc.ca/event/am20/) - 2 day event about design, technology and cool shit. **(February)**
 
 - [The Next Web](https://thenextweb.com/conference/) - Europe's largest tech festival. **(June)**
 
@@ -74,7 +74,7 @@ Contributions are welcomed. Add or update links through pull requests.
 
 #### Paris
 
-- [Immersive Art Festival](https://immersiveartfestival.com/) - The Atelier des Lumières is a digital art centre where immersive exhibitions dedicated to the greatest artists in the history of art and more contemporary creations are projected. (October)
+- [Immersive Art Festival](https://immersiveartfestival.com/) - The Atelier des Lumières is a digital art centre where immersive exhibitions dedicated to the greatest artists in the history of art and more contemporary creations are projected. **(October)**
 
 - [Grow](https://www.grow.paris/) - The first parisian event dedicated to advanced creative coding. **(November)**
 
@@ -106,9 +106,9 @@ Contributions are welcomed. Add or update links through pull requests.
 
 - [Mutek Barcelona](http://www.mutek.org/en) - Electronic music and the digital arts festival. **(March)**
 
-- [Offf Barcelona](http://www.offf.barcelona) - Conference for Offline/Online designers, Motion Designers, Thinkers, Sound Designers, Graphic Designers, Theorists, Developers, Professionals and Students. **(April)**
+- [Offf Barcelona](http://www.offf.barcelona) - Conference for offline/online designers, motion designers, thinkers, sound designers, graphic designers, theorists, developers, professionals and students. **(April)**
 
-- [Sonar](https://sonar.es/en/2020) - Music, Creativity & Technology. **(June)**
+- [Sonar](https://sonar.es/en/2020) - Music, creativity & technology. **(June)**
 
 ---
 
@@ -116,7 +116,7 @@ Contributions are welcomed. Add or update links through pull requests.
 
 #### Linz
 
-- [Ars Electronica Festival](https://ars.electronica.art/news/en/) - Festival for Art, Technology and Society. **(September)**
+- [Ars Electronica Festival](https://ars.electronica.art/news/en/) - Festival for art, technology and society. **(September)**
 
 ---
 
