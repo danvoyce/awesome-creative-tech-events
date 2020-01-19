@@ -1,6 +1,6 @@
 # Awesome Creative Tech Events [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> A curated list of events from around the globe for creative coding, tech, design, music, arts and cool stuff
+> A curated list of events from around the globe for creative coding, tech, design, music, arts and cool stuff.
 
 Contributions are welcomed. Add or update links through pull requests.
 
