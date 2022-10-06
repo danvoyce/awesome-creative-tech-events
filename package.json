@@ -4,7 +4,7 @@
   "description": "> A curated list of Awesome Creative tech events around the world!",
   "main": "index.js",
   "dependencies": {
-    "awesome-lint": "^0.11.0"
+    "awesome-lint": "^0.18.0"
   },
   "devDependencies": {},
   "scripts": {
